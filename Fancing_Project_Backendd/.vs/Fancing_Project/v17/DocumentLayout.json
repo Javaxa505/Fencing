@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|c:\\users\\user\\desktop\\fancing_project_backend\\fancing_project\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|solutionrelative:fancing_project\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|c:\\users\\user\\desktop\\fancing_project_backend\\fancing_project\\controllers\\fanceprojectcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|solutionrelative:fancing_project\\controllers\\fanceprojectcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|c:\\users\\user\\desktop\\fancing_project_backend\\fancing_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|solutionrelative:fancing_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|c:\\users\\user\\desktop\\fancing_project_backend\\fancing_project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ECFFA7-5E4B-4D90-8DFE-9EB7B376B9AD}|Fancing_Project\\Fancing_Project.csproj|solutionrelative:fancing_project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Fancing_Project\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Data\\DataContext.cs",
+              "RelativeToolTip": "Fancing_Project\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:37:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FanceProjectControler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Controllers\\FanceProjectControler.cs",
+              "RelativeDocumentMoniker": "Fancing_Project\\Controllers\\FanceProjectControler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Controllers\\FanceProjectControler.cs",
+              "RelativeToolTip": "Fancing_Project\\Controllers\\FanceProjectControler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:40:08.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Fancing_Project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Models\\Order.cs",
+              "RelativeToolTip": "Fancing_Project\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:36:16.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Fancing_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Fancing_Project_Backend\\Fancing_Project\\Program.cs",
+              "RelativeToolTip": "Fancing_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:17:05.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

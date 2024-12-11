@@ -1,0 +1,6 @@
+@Fancing_Project_HostAddress = http://localhost:5120
+
+GET {{Fancing_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

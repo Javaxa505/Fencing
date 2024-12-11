@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fancing_Project.props" />
+</Project>
